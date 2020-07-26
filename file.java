@@ -7,5 +7,4 @@ The goals of SCM are generally
 hai dude
 hai i am bhaskar
 listening to music
->>>>>>> 98229dda8c7f1b20daba7f2cc7dd1d1828738e6d
 
