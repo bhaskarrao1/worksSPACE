@@ -1,6 +1,4 @@
 hai i am bhaskar
-on...>Docker
->> Cloud computing
 >> Scripting
 Software conf. mgmt(SCM):
 ....................
