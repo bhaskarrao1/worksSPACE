@@ -1,4 +1,1 @@
-[A[Bfirst lint in a.txt
-
-
-
+second line
